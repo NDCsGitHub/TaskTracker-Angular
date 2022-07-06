@@ -29,5 +29,3 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('.content span')?.textContent).toContain('TaskTracker-Angular app is running!');
   });
 });
-
-
